@@ -1,7 +1,5 @@
 User Authentication Project Through MERN.
 
-t.
-
 ## Features in My Project 
 
 - User Authentication
@@ -11,7 +9,5 @@ t.
 ## Installation
 
 Steps to install and run the project.
-
-```bash
 # Example command
 npm install
